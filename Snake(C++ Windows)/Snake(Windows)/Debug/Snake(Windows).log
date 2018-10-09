@@ -1,0 +1,3 @@
+﻿  Snake(Windows).cpp
+c:\users\cipiu\source\repos\snake(windows)\snake(windows)\snake.h(19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Snake(Windows).vcxproj -> C:\Users\Cipiu\source\repos\Snake(Windows)\Debug\Snake(Windows).exe

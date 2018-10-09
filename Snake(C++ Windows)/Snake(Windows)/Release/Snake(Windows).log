@@ -1,0 +1,8 @@
+﻿  Snake(Windows).cpp
+c:\users\cipiu\source\repos\snake(windows)\snake(windows)\snake.h(19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating code
+  3 of 174 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake(Windows).vcxproj -> C:\Users\Cipiu\source\repos\Snake(Windows)\Release\Snake(Windows).exe
